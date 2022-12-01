@@ -1,1 +1,1 @@
-# com.efrata.service.support-
+# com.ambassador.service.support
